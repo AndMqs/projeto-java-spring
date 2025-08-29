@@ -3,3 +3,6 @@ Parte I: criar o backend do zero usnado springboot framework e no final foi feit
 - Detalhamento dos requisitos e habilidades da aplicação: https://trello.com/b/eGsfnOqY/backend-eventostec
 
 - https://drive.google.com/file/d/1hAdDdFceqnqistbnbCAjBDfQR1t5yKy3/view?usp=sharing
+
+
+Parte II - Autenticação e autorização com Spring Security, JWT Tokens e Roles
